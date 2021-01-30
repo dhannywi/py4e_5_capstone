@@ -1,3 +1,6 @@
+Note: This folder does not contain index.sqlite and content.sqlite as each file is larger than 250MB (259MB and 625MB respectively)
+The applcations in this folder will generate the two files.
+
 Analyzing an EMAIL Archive from gmane and vizualizing the data
 using the D3 JavaScript library
 
